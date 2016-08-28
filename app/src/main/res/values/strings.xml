@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Mqttpush API9</string>
+    <string name="title_activity_mqttpush_background">Mqttpush_background</string>
 </resources>
